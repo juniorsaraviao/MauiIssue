@@ -2,7 +2,7 @@
 Maui issue using grids - iPhone SE (3rd generation)
 
 ## iOS (iPhone SE)
-Comparing Xamarin and Maui on Android looks good.
+Using iPhone SE, there is a difference creating the layout
 <table>
   <tr>
      <td>NET MAUI</td>
